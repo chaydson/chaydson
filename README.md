@@ -17,9 +17,7 @@ I am continuously seeking to grow as an engineer and contribute to challenging p
 </p>
 
 ## My Skills
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaydson&layout=compact&card_width=275&theme=github_dark&langs_count=10" alt="Top Languages" align="right" width="295">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaydson&show_icons=true&include_all_commits=true&theme=github_dark)
 
 ### Languages & Frameworks
@@ -45,7 +43,6 @@ I am continuously seeking to grow as an engineer and contribute to challenging p
 ### AI / Data
 
 <a href="https://scikit-learn.org"><img alt="Scikit-learn" title="Scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" height="42"></a>
-<a href="https://airflow.apache.org"><img alt="Airflow" title="Airflow" src="https://raw.githubusercontent.com/github/explore/main/topics/airflow/airflow.png" height="42"></a>
 <a href="https://python.langchain.com"><img alt="LangChain" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="42"></a>
 
 ## Interests

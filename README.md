@@ -16,6 +16,14 @@ I have a strong interest in applied AI and enjoy turning ideas and research into
 I am continuously seeking to grow as an engineer and contribute to challenging projects that combine software engineering, security, data, and real-world impact.
 </p>
 
+### Stats
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaydson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaydson&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
 ### Languages & Frameworks
 
 <a href="https://www.python.org"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>

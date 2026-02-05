@@ -1,5 +1,3 @@
-<h1>chaydson <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=chaydson&style=flat-square"></h1>
-
 ## About Me
 
 <p align="justify">

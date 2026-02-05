@@ -1,104 +1,66 @@
-<h1>cheesits456 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h1>
+<h1>chaydson <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=chaydson&style=flat-square"></h1>
 
 ## About Me
 
-<p align="justify">I am a NodeJS developer with 16 years of coding experience.</p>
+<p align="justify">
+I am a Software Engineer with 2+ years of experience working across backend, frontend, AI/ML, and DevSecOps in both public and private sector projects.
+</p>
 
-<p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS using a DSi app called Petit Computer. In 2015 I found NodeJS and started using it to create some basic bots for various chat platforms.</p>
+<p align="justify">
+My background includes building and maintaining web applications, REST APIs, and cloud-based systems, with hands-on experience in Linux environments, relational databases, CI/CD pipelines, and automated testing. I have worked on large-scale platforms in healthcare, justice, public security, and digital democracy.
+</p>
 
-<p align="justify">My goal with coding is primarily to have fun, but I also enjoy helping others if it aligns with that. I enjoy being able to create something that other people can use and enjoy as well. With public projects, the wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose. I take criticism well, and use suggestions to improve the product.</p>
+<p align="justify">
+I have strong experience in applied Artificial Intelligence, including the development and integration of LLM-based solutions, NLP pipelines, and MLOps workflows into production systems. My work often involves transforming research and prototypes into reliable, secure, and maintainable software.
+</p>
 
-<p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
+<p align="justify">
+I actively contribute to open-source and research-driven projects, with a focus on software quality and security. My academic work includes applied research in DevSecOps, integrating SAST, DAST, and SCA tools into CI/CD pipelines and analyzing security metrics using Bash and Python, following standards such as ISO 27001 and ISO 25010.
+</p>
 
-<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/cheesits456/asciibots-bash">asciibots-bash</a> project is one example of this. I'm also working on learning how to make GUI applications, such as my <a href="https://github.com/cheesits456/RecipeBook">RecipeBook</a> application.</p>
+<p align="justify">
+I am continuously seeking to grow as an engineer and contribute to challenging projects that combine software engineering, security, data, and real-world impact.
+</p>
 
 ## My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaydson&layout=compact&card_width=275&theme=github_dark&langs_count=10" alt="Top Languages" align="right" width="295">
 
-![cheesits456's GitHub Stats][github-stats-img]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaydson&show_icons=true&include_all_commits=true&theme=github_dark)
 
-### Languages/Frameworks I'm good at:
+### Languages & Frameworks
 
-<a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a>
-<a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 11" title="ECMAScript 11" src="https://github.com/cheesits456/cheesits456/raw/master/icons/ecmascript.png" height="42"></a>
-<a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a>
-<a href="http://www.json.org"><img alt="JSON" title="JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" height="42"></a>
-<a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" height="42"></a>
-<a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a>
+<a href="https://www.python.org"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>
+<a href="https://go.dev"><img alt="Go" title="Go" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" height="42"></a>
+<a href="https://www.java.com"><img alt="Java" title="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="42"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="42"></a>
+<a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="42"></a>
+<a href="https://fastapi.tiangolo.com"><img alt="FastAPI" title="FastAPI" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" height="42"></a>
+<a href="https://spring.io"><img alt="Spring" title="Spring" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" height="42"></a>
+<a href="https://react.dev"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="42"></a>
 
-### Languages/Frameworks I'm learning:
+### DevOps, Cloud & Security
 
-<a href="https://www.electronjs.org/"><img alt="Electron" title="Electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="42"></a>
-<a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42"></a>
-<a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a>
+<a href="https://www.linux.org"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="42"></a>
+<a href="https://www.docker.com"><img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="42"></a>
+<a href="https://www.terraform.io"><img alt="Terraform" title="Terraform" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" height="42"></a>
+<a href="https://aws.amazon.com"><img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" height="42"></a>
+<a href="https://cloud.google.com"><img alt="GCP" title="GCP" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" height="42"></a>
+<a href="https://owasp.org"><img alt="OWASP" title="OWASP" src="https://owasp.org/assets/images/logo.png" height="42"></a>
 
-### Environments I work with:
+### AI / Data
 
-<a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
-<a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a>
-<a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a>
-<a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a>
-<a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a>
-<a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
-<a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
+<a href="https://scikit-learn.org"><img alt="Scikit-learn" title="Scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" height="42"></a>
+<a href="https://airflow.apache.org"><img alt="Airflow" title="Airflow" src="https://raw.githubusercontent.com/github/explore/main/topics/airflow/airflow.png" height="42"></a>
+<a href="https://python.langchain.com"><img alt="LangChain" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="42"></a>
 
-## Recent GitHub Activity
+## Interests
 
-<!--START_SECTION:activity-->
-`[12/29 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Media-Server-Redirect](https://github.com/cheesits456/Media-Server-Redirect)  
-`[12/29 20:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Media-Server-Redirect](https://github.com/cheesits456/Media-Server-Redirect)  
-`[12/29 20:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/Media-Server-Redirect/tree/main) in [cheesits456/Media-Server-Redirect](https://github.com/cheesits456/Media-Server-Redirect)  
+- Software Architecture & Backend Systems  
+- DevSecOps & Application Security  
+- Applied AI (LLMs, NLP, MLOps)  
+- Open Source & Public Sector Technology  
+- Cloud Infrastructure & Automation  
 
-</details>
-<!--END_SECTION:activity-->
+---
 
-## Show your support
-
-Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https://hit.yhype.me/github/profile?user_id=35486894)
-
-<!--
-
-## Pinned
-
-[![cheesits456.github.io][pin1-img]][pin1-link]
-[![HaileyBot/haileybot.github.io][pin2-img]][pin2-link]
-[![NewDiscordBridge][pin3-img]][pin3-link]
-[![HaileyBot/captcha-generator][pin4-img]][pin4-link]
-[![discord-ssh-bot][pin5-img]][pin5-link]
-[![HaileyBot/sanitize-role-mentions][pin6-img]][pin6-link]
-
--->
-
-<!-- Link anchors -->
-[banner-img]: https://raw.githubusercontent.com/cheesits456/cheesits456/master/personal-banner.gif
-[banner-link]: https://social.cheesits456.dev
-
-[sponsor]: https://github.com/sponsors/cheesits456
-
-[website-img]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
-[website-link]: https://cheesits456.dev
-[discord-img]: https://img.shields.io/badge/-Discord-e722e7?style=for-the-badge
-[discord-link]: https://discord.gg/7QH4YeD
-[email-img]: https://img.shields.io/badge/-E--Mail-e722e7?style=for-the-badge
-[email-link]: mailto:quin@cheesits456.dev
-
-[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
-[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty
-
-[pin1-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=cheesits456.github.io
-[pin1-link]: https://github.com/cheesits456/cheesits456.github.io
-[pin2-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=haileybot.github.io&show_owner=true
-[pin2-link]: https://github.com/HaileyBot/haileybot.github.io
-[pin3-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=NewDiscordBridge
-[pin3-link]: https://github.com/cheesits456/NewDiscordBridge
-[pin4-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=captcha-generator&show_owner=true
-[pin4-link]: https://github.com/HaileyBot/captcha-generator
-[pin5-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=discord-ssh-bot
-[pin5-link]: https://github.com/cheesits456/discord-ssh-bot
-[pin6-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=sanitize-role-mentions&show_owner=true
-[pin6-link]: https://github.com/HaileyBot/sanitize-role-mentions

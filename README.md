@@ -17,8 +17,9 @@ I am continuously seeking to grow as an engineer and contribute to challenging p
 </p>
 
 ## My Skills
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaydson&layout=compact&card_width=275&theme=github_dark&langs_count=10" alt="Top Languages" align="right" width="295">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaydson&show_icons=true&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaydson)](https://github.com/chaydson/github-readme-stats)
 
 ### Languages & Frameworks
 

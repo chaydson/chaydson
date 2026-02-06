@@ -18,7 +18,7 @@ I am continuously seeking to grow as an engineer and contribute to challenging p
 
 ### Stats
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <img src="github-metrics.svg" alt="Metrics" width="50%">
 </div>
 
 ### Languages & Frameworks

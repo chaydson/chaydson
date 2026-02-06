@@ -16,11 +16,6 @@ I have a strong interest in applied AI and enjoy turning ideas and research into
 I am continuously seeking to grow as an engineer and contribute to challenging projects that combine software engineering, security, data, and real-world impact.
 </p>
 
-### Stats
-<div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%" height="50%">
-</div>
-
 ### Languages & Frameworks
 
 <a href="https://www.python.org"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>
@@ -53,6 +48,11 @@ I am continuously seeking to grow as an engineer and contribute to challenging p
 - Applied AI (LLMs, NLP, MLOps)  
 - Open Source & Public Sector Technology  
 - Cloud Infrastructure & Automation  
+
+### Stats
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%" height="50%">
+</div>
 
 ---
 
